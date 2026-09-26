@@ -1,0 +1,1135 @@
+[
+ {
+  "id": "g_smartrect",
+  "category": "Glassware",
+  "tag": "Fit & Fresh",
+  "name": "Smart Lock Rectangular Gift Set",
+  "body": "2 x 370 ml + 1 x 640 ml rectangular containers",
+  "img": "images/g_smartrect.jpg",
+  "badges": [
+   "3 pcs"
+  ],
+  "subgroup": "Food Storage Gift Sets",
+  "serial": "GL-01"
+ },
+ {
+  "id": "g_smartsq",
+  "category": "Glassware",
+  "tag": "Fit & Fresh",
+  "name": "Smart Lock Square Gift Set",
+  "body": "Square containers in 320, 520 and 800 ml",
+  "img": "images/g_smartsq.jpg",
+  "badges": [
+   "3 pcs"
+  ],
+  "subgroup": "Food Storage Gift Sets",
+  "serial": "GL-02"
+ },
+ {
+  "id": "g_clipo",
+  "category": "Glassware",
+  "tag": "Fit & Fresh",
+  "name": "Clip-O Rectangular Container Set",
+  "body": "6 x 120 ml rectangular containers",
+  "img": "images/g_clipo.jpg",
+  "badges": [
+   "6 pcs"
+  ],
+  "subgroup": "Food Storage Gift Sets",
+  "serial": "GL-03"
+ },
+ {
+  "id": "g_steelo",
+  "category": "Glassware",
+  "tag": "Fit & Fresh",
+  "name": "Steel-O Square Container Set",
+  "body": "Borosilicate square containers in 320, 520 and 800 ml",
+  "img": "images/g_steelo.jpg",
+  "badges": [
+   "3 pcs"
+  ],
+  "subgroup": "Food Storage Gift Sets",
+  "serial": "GL-04"
+ },
+ {
+  "id": "g_snackstore",
+  "category": "Glassware",
+  "tag": "Snack & Store",
+  "name": "Snack & Store Gift Set",
+  "body": "2 x 320 ml square + 2 x 400 ml round containers",
+  "img": "images/g_snackstore.jpg",
+  "badges": [
+   "4 pcs"
+  ],
+  "subgroup": "Snack, Dry-Fruit & Canister Sets",
+  "serial": "GL-05"
+ },
+ {
+  "id": "g_artista",
+  "category": "Glassware",
+  "tag": "Artista",
+  "name": "Dry-Fruit Tray Set",
+  "body": "2 x 320 ml square containers with serving tray",
+  "img": "images/g_artista.jpg",
+  "badges": [
+   "3 pcs"
+  ],
+  "subgroup": "Snack, Dry-Fruit & Canister Sets",
+  "serial": "GL-06"
+ },
+ {
+  "id": "g_canister",
+  "category": "Glassware",
+  "tag": "Classic",
+  "name": "Canister with Tray Set",
+  "body": "3 x 300 ml storage jars with tray",
+  "img": "images/g_canister.jpg",
+  "badges": [
+   "4 pcs"
+  ],
+  "subgroup": "Snack, Dry-Fruit & Canister Sets",
+  "serial": "GL-07"
+ },
+ {
+  "id": "g_modustack",
+  "category": "Glassware",
+  "tag": "Modustack",
+  "name": "Steelox with Tray Set",
+  "body": "2 x 500 ml storage jars with tray",
+  "img": "images/g_modustack.jpg",
+  "badges": [
+   "3 pcs"
+  ],
+  "subgroup": "Snack, Dry-Fruit & Canister Sets",
+  "serial": "GL-08"
+ },
+ {
+  "id": "g_nadir",
+  "category": "Glassware",
+  "tag": "Nadir",
+  "name": "Bowl with Lid",
+  "body": "4 x 600 ml bowls with flexi lids",
+  "img": "images/g_nadir.jpg",
+  "badges": [
+   "4 pcs"
+  ],
+  "subgroup": "Bowls with Lids",
+  "serial": "GL-09"
+ },
+ {
+  "id": "g_zenith",
+  "category": "Glassware",
+  "tag": "Zenith",
+  "name": "Bowl with Blue Lid",
+  "body": "6 x 500 ml bowls with flexi lids",
+  "img": "images/g_zenith.jpg",
+  "badges": [
+   "6 pcs"
+  ],
+  "subgroup": "Bowls with Lids",
+  "serial": "GL-10"
+ },
+ {
+  "id": "g_ornella_easy",
+  "category": "Glassware",
+  "tag": "Ornella",
+  "name": "Bowl with Easy Lid",
+  "body": "500 ml, 1 L and 1.5 L bowls with easy lids",
+  "img": "images/g_ornella_easy.jpg",
+  "badges": [
+   "3 pcs"
+  ],
+  "subgroup": "Bowls with Lids",
+  "serial": "GL-11"
+ },
+ {
+  "id": "g_ornella_prem",
+  "category": "Glassware",
+  "tag": "Ornella",
+  "name": "Mixing Bowl with Premium Lid",
+  "body": "500 ml, 1 L and 1.5 L mixing bowls",
+  "img": "images/g_ornella_prem.jpg",
+  "badges": [
+   "3 pcs"
+  ],
+  "subgroup": "Bowls with Lids",
+  "serial": "GL-12"
+ },
+ {
+  "id": "g_regalia",
+  "category": "Glassware",
+  "tag": "Regalia",
+  "name": "Pudding Set",
+  "body": "6 x 300 ml bowls + 1 x 2 L serving bowl",
+  "img": "images/g_regalia.jpg",
+  "badges": [
+   "7 pcs"
+  ],
+  "subgroup": "Dessert & Serving Sets",
+  "serial": "GL-13"
+ },
+ {
+  "id": "g_vidivi_pud",
+  "category": "Glassware",
+  "tag": "Vidivi Gold Line",
+  "name": "Pudding Set",
+  "body": "6 x 280 ml bowls + 1 x 2 L serving bowl",
+  "img": "images/g_vidivi_pud.jpg",
+  "badges": [
+   "7 pcs"
+  ],
+  "subgroup": "Dessert & Serving Sets",
+  "serial": "GL-14"
+ },
+ {
+  "id": "g_delvora",
+  "category": "Glassware",
+  "tag": "Delvora",
+  "name": "Nut Bowl Set",
+  "body": "6 x 240 ml nut bowls",
+  "img": "images/g_delvora.jpg",
+  "badges": [
+   "6 pcs"
+  ],
+  "subgroup": "Dessert & Serving Sets",
+  "serial": "GL-15"
+ },
+ {
+  "id": "g_octavia",
+  "category": "Glassware",
+  "tag": "Octavia",
+  "name": "Breakfast Set",
+  "body": "6 x 180 ml mugs + 2 x 350 ml bowls",
+  "img": "images/g_octavia.jpg",
+  "badges": [
+   "8 pcs"
+  ],
+  "subgroup": "Breakfast & Coffee Sets",
+  "serial": "GL-16"
+ },
+ {
+  "id": "g_sipstore",
+  "category": "Glassware",
+  "tag": "Sip & Store",
+  "name": "Sip & Store Set",
+  "body": "6 x 140 ml mugs + 2 x 300 ml storage jars",
+  "img": "images/g_sipstore.jpg",
+  "badges": [
+   "8 pcs"
+  ],
+  "subgroup": "Breakfast & Coffee Sets",
+  "serial": "GL-17"
+ },
+ {
+  "id": "g_aurum",
+  "category": "Glassware",
+  "tag": "Aurum",
+  "name": "Goldline Gift Set",
+  "body": "6 x 140 ml goldline mugs + 2 x 300 ml goldline bowls",
+  "img": "images/g_aurum.jpg",
+  "badges": [
+   "8 pcs"
+  ],
+  "subgroup": "Breakfast & Coffee Sets",
+  "serial": "GL-18"
+ },
+ {
+  "id": "g_bravon",
+  "category": "Glassware",
+  "tag": "Bravon",
+  "name": "Barware Set",
+  "body": "6 x 325 ml tumblers + 2 x 240 ml nut bowls",
+  "img": "images/g_bravon.jpg",
+  "badges": [
+   "8 pcs"
+  ],
+  "subgroup": "Barware Sets",
+  "serial": "GL-19"
+ },
+ {
+  "id": "g_cairo",
+  "category": "Glassware",
+  "tag": "Cairo",
+  "name": "Ale Set",
+  "body": "2 x 390 ml beer mugs + 2 x 220 ml storage containers",
+  "img": "images/g_cairo.jpg",
+  "badges": [
+   "4 pcs"
+  ],
+  "subgroup": "Barware Sets",
+  "serial": "GL-20"
+ },
+ {
+  "id": "g_velora",
+  "category": "Glassware",
+  "tag": "Velora",
+  "name": "On The Rocks",
+  "body": "6 x 325 ml tumblers + 950 ml ice bucket",
+  "img": "images/g_velora.jpg",
+  "badges": [
+   "7 pcs"
+  ],
+  "subgroup": "Barware Sets",
+  "serial": "GL-21"
+ },
+ {
+  "id": "o_miniquick",
+  "category": "Opalware",
+  "tag": "Imperial",
+  "name": "Mini Quick Bite Set",
+  "body": "6 small mugs + 2 small snack bowls",
+  "img": "images/o_miniquick.jpg",
+  "badges": [
+   "8 pcs",
+   "New"
+  ],
+  "subgroup": "Imperial Collection",
+  "serial": "OP-01"
+ },
+ {
+  "id": "o_regal",
+  "category": "Opalware",
+  "tag": "Imperial",
+  "name": "Regal Dry Fruit Set",
+  "body": "4 small mixing bowls, 4 lids and a tray",
+  "img": "images/o_regal.jpg",
+  "badges": [
+   "9 pcs"
+  ],
+  "subgroup": "Imperial Collection",
+  "serial": "OP-02"
+ },
+ {
+  "id": "o_hightea",
+  "category": "Opalware",
+  "tag": "Imperial",
+  "name": "High Tea Set",
+  "body": "1.2 L carafe, 6 cups & saucers, sugar pot, milk mug, 2 snack bowls",
+  "img": "images/o_hightea.jpg",
+  "badges": [
+   "17 pcs"
+  ],
+  "subgroup": "Imperial Collection",
+  "serial": "OP-03"
+ },
+ {
+  "id": "o_kingthali",
+  "category": "Opalware",
+  "tag": "Imperial",
+  "name": "King Thali Set",
+  "body": "6 dinner plates (11\") and 12 veg bowls",
+  "img": "images/o_kingthali.jpg",
+  "badges": [
+   "18 pcs"
+  ],
+  "subgroup": "Imperial Collection",
+  "serial": "OP-04"
+ },
+ {
+  "id": "o_r_serving",
+  "category": "Opalware",
+  "tag": "Royale",
+  "name": "Serving Bowl Set",
+  "body": "4 serving bowls, wooden ladle, salt & pepper",
+  "img": "images/o_r_serving.jpg",
+  "badges": [
+   "7 pcs",
+   "New"
+  ],
+  "subgroup": "Royale Collection",
+  "serial": "OP-05"
+ },
+ {
+  "id": "o_r_buffet",
+  "category": "Opalware",
+  "tag": "Royale",
+  "name": "Buffet Set",
+  "body": "6 buffet plates (12\") and 12 veg bowls",
+  "img": "images/o_r_buffet.jpg",
+  "badges": [
+   "18 pcs"
+  ],
+  "subgroup": "Royale Collection",
+  "serial": "OP-06"
+ },
+ {
+  "id": "o_r_soup",
+  "category": "Opalware",
+  "tag": "Royale",
+  "name": "Soup Set",
+  "body": "6 soup bowls, 6 spoons, salt & pepper",
+  "img": "images/o_r_soup.jpg",
+  "badges": [
+   "14 pcs"
+  ],
+  "subgroup": "Royale Collection",
+  "serial": "OP-07"
+ },
+ {
+  "id": "o_r_mixing",
+  "category": "Opalware",
+  "tag": "Royale",
+  "name": "Mixing Bowl Set with Lid",
+  "body": "Mini, medium and large serving bowls with lids",
+  "img": "images/o_r_mixing.jpg",
+  "badges": [
+   "3 pcs",
+   "New"
+  ],
+  "subgroup": "Royale Collection",
+  "serial": "OP-08"
+ },
+ {
+  "id": "o_d_family",
+  "category": "Opalware",
+  "tag": "Dazzle",
+  "name": "Family Mug Set",
+  "body": "2 large mugs, 6 medium mugs, 4 small snack bowls",
+  "img": "images/o_d_family.jpg",
+  "badges": [
+   "12 pcs",
+   "New"
+  ],
+  "subgroup": "Dazzle Collection",
+  "serial": "OP-09"
+ },
+ {
+  "id": "o_d_snack10",
+  "category": "Opalware",
+  "tag": "Dazzle",
+  "name": "Snack Set",
+  "body": "2 oval mini platters, 6 medium mugs, 2 katori",
+  "img": "images/o_d_snack10.jpg",
+  "badges": [
+   "10 pcs",
+   "New"
+  ],
+  "subgroup": "Dazzle Collection",
+  "serial": "OP-10"
+ },
+ {
+  "id": "o_d_tea",
+  "category": "Opalware",
+  "tag": "Dazzle",
+  "name": "Tea Set",
+  "body": "6 cups & saucers, carafe, milk mug and sugar pot",
+  "img": "images/o_d_tea.jpg",
+  "badges": [
+   "15 pcs"
+  ],
+  "subgroup": "Dazzle Collection",
+  "serial": "OP-11"
+ },
+ {
+  "id": "o_d_dry",
+  "category": "Opalware",
+  "tag": "Dazzle",
+  "name": "Dry Fruit Set",
+  "body": "4 small serving bowls, 4 lids and a tray",
+  "img": "images/o_d_dry.jpg",
+  "badges": [
+   "9 pcs"
+  ],
+  "subgroup": "Dazzle Collection",
+  "serial": "OP-12"
+ },
+ {
+  "id": "o_s_tea",
+  "category": "Opalware",
+  "tag": "Solitaire",
+  "name": "Tea Set",
+  "body": "Carafe, 6 cups, 6 saucers, milk mug, sugar pot",
+  "img": "images/o_s_tea.jpg",
+  "badges": [
+   "15 pcs"
+  ],
+  "subgroup": "Solitaire & Aura Collections",
+  "serial": "OP-13"
+ },
+ {
+  "id": "o_s_snack",
+  "category": "Opalware",
+  "tag": "Solitaire",
+  "name": "Snack Set",
+  "body": "6 cups, 6 saucers, 6 quarter plates",
+  "img": "images/o_s_snack.jpg",
+  "badges": [
+   "18 pcs"
+  ],
+  "subgroup": "Solitaire & Aura Collections",
+  "serial": "OP-14"
+ },
+ {
+  "id": "o_s_nexus",
+  "category": "Opalware",
+  "tag": "Solitaire",
+  "name": "Nexus Coffee Set",
+  "body": "Flask with 6 small mugs",
+  "img": "images/o_s_nexus.jpg",
+  "badges": [
+   "7 pcs"
+  ],
+  "subgroup": "Solitaire & Aura Collections",
+  "serial": "OP-15"
+ },
+ {
+  "id": "o_a_pudding",
+  "category": "Opalware",
+  "tag": "Aura",
+  "name": "Pudding Set",
+  "body": "1 medium serving bowl and 6 veg bowls",
+  "img": "images/o_a_pudding.jpg",
+  "badges": [
+   "7 pcs"
+  ],
+  "subgroup": "Solitaire & Aura Collections",
+  "serial": "OP-16"
+ },
+ {
+  "id": "t_imperio",
+  "category": "Thermoware",
+  "tag": "Dining \u00b7 Hot Pots",
+  "name": "Imperio",
+  "body": "1.5 L and 2.5 L, with 2-pc and 3-pc gift sets",
+  "img": "images/t_imperio.jpg",
+  "badges": [
+   "New"
+  ],
+  "subgroup": "Insulated Hot Pots",
+  "serial": "TH-01"
+ },
+ {
+  "id": "t_castella",
+  "category": "Thermoware",
+  "tag": "Dining \u00b7 Hot Pots",
+  "name": "Castella Deluxe",
+  "body": "1, 1.5 and 2.5 L, with a 3-pc gift set",
+  "img": "images/t_castella.jpg",
+  "badges": [
+   "New"
+  ],
+  "subgroup": "Insulated Hot Pots",
+  "serial": "TH-02"
+ },
+ {
+  "id": "t_velvetto",
+  "category": "Thermoware",
+  "tag": "Dining \u00b7 Hot Pots",
+  "name": "Velvetto",
+  "body": "1.5, 2 and 2.5 L, with a 3-pc gift set",
+  "img": "images/t_velvetto.jpg",
+  "badges": [],
+  "subgroup": "Insulated Hot Pots",
+  "serial": "TH-03"
+ },
+ {
+  "id": "t_aurum",
+  "category": "Thermoware",
+  "tag": "Dining \u00b7 Hot Pots",
+  "name": "Aurum",
+  "body": "1.5 and 2.5 L, with twin and 3-pc gift sets",
+  "img": "images/t_aurum.jpg",
+  "badges": [],
+  "subgroup": "Insulated Hot Pots",
+  "serial": "TH-04"
+ },
+ {
+  "id": "t_trilunch",
+  "category": "Thermoware",
+  "tag": "Eats \u00b7 Lunch Boxes",
+  "name": "Tri Lunch",
+  "body": "Three-compartment lunch box in four colours",
+  "img": "images/t_trilunch.jpg",
+  "badges": [],
+  "subgroup": "Lunch Boxes",
+  "serial": "TH-05"
+ },
+ {
+  "id": "t_brunch",
+  "category": "Thermoware",
+  "tag": "Eats \u00b7 Lunch Boxes",
+  "name": "Brunch Deluxe",
+  "body": "Steel containers with insulated carry bag and cutlery",
+  "img": "images/t_brunch.jpg",
+  "badges": [],
+  "subgroup": "Lunch Boxes",
+  "serial": "TH-06"
+ },
+ {
+  "id": "t_spark",
+  "category": "Thermoware",
+  "tag": "Eats \u00b7 Lunch Boxes",
+  "name": "MF Spark",
+  "body": "Lunch combo with insulated bag, steel containers and bottle",
+  "img": "images/t_spark.jpg",
+  "badges": [
+   "New"
+  ],
+  "subgroup": "Lunch Boxes",
+  "serial": "TH-07"
+ },
+ {
+  "id": "t_hottron",
+  "category": "Thermoware",
+  "tag": "Eats \u00b7 Carriers",
+  "name": "Hot Tron Plus",
+  "body": "Insulated carrier with 4-tier or 5-tier steel containers",
+  "img": "images/t_hottron.jpg",
+  "badges": [],
+  "subgroup": "Lunch Boxes",
+  "serial": "TH-08"
+ },
+ {
+  "id": "t_ornate",
+  "category": "Thermoware",
+  "tag": "Bottles",
+  "name": "Puro Steel-X Ornate",
+  "body": "Stainless-steel bottle, 900 ml, in four colours",
+  "img": "images/t_ornate.jpg",
+  "badges": [
+   "New"
+  ],
+  "subgroup": "Hydration",
+  "serial": "TH-09"
+ },
+ {
+  "id": "t_jug",
+  "category": "Thermoware",
+  "tag": "Jugs",
+  "name": "Ornetto Tuff Jug",
+  "body": "Insulated jug, 1000 ml",
+  "img": "images/t_jug.jpg",
+  "badges": [
+   "New"
+  ],
+  "subgroup": "Hydration",
+  "serial": "TH-10"
+ },
+ {
+  "id": "t_nexus",
+  "category": "Thermoware",
+  "tag": "Flasks",
+  "name": "Nexus",
+  "body": "Insulated flask in 600 ml and 1000 ml",
+  "img": "images/t_nexus.jpg",
+  "badges": [],
+  "subgroup": "Hydration",
+  "serial": "TH-11"
+ },
+ {
+  "id": "t_polar",
+  "category": "Thermoware",
+  "tag": "Camper",
+  "name": "Polar",
+  "body": "Insulated water camper from 3.5 L to 22 L",
+  "img": "images/t_polar.jpg",
+  "badges": [],
+  "subgroup": "Hydration",
+  "serial": "TH-12"
+ },
+ {
+  "id": "t_grand",
+  "category": "Thermoware",
+  "tag": "Gift Set",
+  "name": "Grand Gift Set",
+  "body": "Ornetto 3-tier carrier with Ornate 900 ml bottle",
+  "img": "images/t_grand.jpg",
+  "badges": [
+   "New"
+  ],
+  "subgroup": "Gift Sets: Picnic & Travel",
+  "serial": "TH-13"
+ },
+ {
+  "id": "t_castellapic",
+  "category": "Thermoware",
+  "tag": "Gift Set",
+  "name": "Castella Picnic Set",
+  "body": "Polar 3.5 L camper with Castella 1 L hot pot",
+  "img": "images/t_castellapic.jpg",
+  "badges": [
+   "New"
+  ],
+  "subgroup": "Gift Sets: Picnic & Travel",
+  "serial": "TH-14"
+ },
+ {
+  "id": "t_hotcold",
+  "category": "Thermoware",
+  "tag": "Gift Set",
+  "name": "Hot & Cold Gift Set",
+  "body": "Polar 3.5 L camper with Wow Tuff Jug 750 ml",
+  "img": "images/t_hotcold.jpg",
+  "badges": [
+   "New"
+  ],
+  "subgroup": "Gift Sets: Picnic & Travel",
+  "serial": "TH-15"
+ },
+ {
+  "id": "t_drink",
+  "category": "Thermoware",
+  "tag": "Gift Set",
+  "name": "Ornetto Drink Set",
+  "body": "Ornetto 1 L jug with 2 Ornetto mugs",
+  "img": "images/t_drink.jpg",
+  "badges": [
+   "New"
+  ],
+  "subgroup": "Gift Sets: Tea, Coffee & Serving",
+  "serial": "TH-16"
+ },
+ {
+  "id": "t_carolene",
+  "category": "Thermoware",
+  "tag": "Gift Set",
+  "name": "Carolene Tea / Coffee Gift Set",
+  "body": "Carolene 500 ml jug with 4 steel mugs",
+  "img": "images/t_carolene.jpg",
+  "badges": [
+   "5 pcs"
+  ],
+  "subgroup": "Gift Sets: Tea, Coffee & Serving",
+  "serial": "TH-17"
+ },
+ {
+  "id": "t_marvella",
+  "category": "Thermoware",
+  "tag": "Gift Set",
+  "name": "Marvella Gift Set",
+  "body": "Insulated hot pot with tuff flask and 2 mugs",
+  "img": "images/t_marvella.jpg",
+  "badges": [],
+  "subgroup": "Gift Sets: Tea, Coffee & Serving",
+  "serial": "TH-18"
+ },
+ {
+  "id": "t_gemini",
+  "category": "Thermoware",
+  "tag": "Gift Set",
+  "name": "Gemini Gift Set",
+  "body": "Insulated lunch box with insulated water bottle",
+  "img": "images/t_gemini.jpg",
+  "badges": [],
+  "subgroup": "Gift Sets: Work & On-the-Go",
+  "serial": "TH-19"
+ },
+ {
+  "id": "t_midday",
+  "category": "Thermoware",
+  "tag": "Gift Set",
+  "name": "Mid Day Gift Set",
+  "body": "MF Trent lunch box with Puro Gliss 600 ml bottle",
+  "img": "images/t_midday.jpg",
+  "badges": [],
+  "subgroup": "Gift Sets: Work & On-the-Go",
+  "serial": "TH-20"
+ },
+ {
+  "id": "t_turbo",
+  "category": "Thermoware",
+  "tag": "Gift Set",
+  "name": "Turbo Gift Set",
+  "body": "Turbo 600 ml bottle with 2 espresso cups",
+  "img": "images/t_turbo.jpg",
+  "badges": [],
+  "subgroup": "Gift Sets: Work & On-the-Go",
+  "serial": "TH-21"
+ },
+ {
+  "id": "m_bs120",
+  "category": "Bed Linen",
+  "tag": "Cotton \u00b7 120 TC",
+  "name": "Double Bedsheet Set",
+  "body": "1 double bedsheet 2.28 x 2.54 m + 2 pillow covers 46 x 69 cm. 12 designs",
+  "img": "images/m_bs120.jpg",
+  "badges": [],
+  "subgroup": "Bedsheet Sets",
+  "serial": "BL-01"
+ },
+ {
+  "id": "m_bs144",
+  "category": "Bed Linen",
+  "tag": "Cotton \u00b7 144 TC",
+  "name": "King Size Bedsheet Set",
+  "body": "1 king size bedsheet 2.74 x 2.74 m + 2 pillow covers 46 x 69 cm. 12 designs",
+  "img": "images/m_bs144.jpg",
+  "badges": [],
+  "subgroup": "Bedsheet Sets",
+  "serial": "BL-02"
+ },
+ {
+  "id": "m_bs300",
+  "category": "Bed Linen",
+  "tag": "Cotton \u00b7 300 TC",
+  "name": "Premium King Size Bedsheet Set",
+  "body": "1 king size bedsheet 2.74 x 2.74 m + 4 pillow covers 46 x 69 cm. 6 designs",
+  "img": "images/m_bs300.jpg",
+  "badges": [],
+  "subgroup": "Bedsheet Sets",
+  "serial": "BL-03"
+ },
+ {
+  "id": "m_bs400",
+  "category": "Bed Linen",
+  "tag": "Cotton \u00b7 400 TC",
+  "name": "Digital Print King Size Set",
+  "body": "1 king size bedsheet 2.74 x 2.74 m + 4 pillow covers 46 x 69 cm. 6 designs",
+  "img": "images/m_bs400.jpg",
+  "badges": [],
+  "subgroup": "Bedsheet Sets",
+  "serial": "BL-04"
+ },
+ {
+  "id": "m_bsscent",
+  "category": "Bed Linen",
+  "tag": "Scented \u00b7 180 TC",
+  "name": "Scented King Size Bedsheet Set",
+  "body": "Lavender, vanilla, sandalwood and more. King size + 2 pillow covers",
+  "img": "images/m_bsscent.jpg",
+  "badges": [],
+  "subgroup": "Bedsheet Sets",
+  "serial": "BL-05"
+ },
+ {
+  "id": "h_micro",
+  "category": "Bed Linen",
+  "tag": "Micro Fabric",
+  "name": "Micro Double Bedsheet Set",
+  "body": "Soft and hypoallergenic. 1 double bedsheet 2.20 x 2.40 m + 2 pillow covers",
+  "img": "images/h_micro.jpg",
+  "badges": [],
+  "subgroup": "Bedsheet Sets",
+  "serial": "BL-06"
+ },
+ {
+  "id": "h_poly",
+  "category": "Bed Linen",
+  "tag": "Poly Cotton",
+  "name": "Poly Cotton Double Bedsheet Set",
+  "body": "Cotton-like feel, fade resistant. 1 double bedsheet 2.24 x 2.54 m + 2 pillow covers",
+  "img": "images/h_poly.jpg",
+  "badges": [],
+  "subgroup": "Bedsheet Sets",
+  "serial": "BL-07"
+ },
+ {
+  "id": "i_single",
+  "category": "Bed Linen",
+  "tag": "Single",
+  "name": "Single Bedsheet Set",
+  "body": "1 single bedsheet 1.42 x 2.18 m + 1 pillow cover 43 x 68 cm",
+  "img": "images/i_single.jpg",
+  "badges": [],
+  "subgroup": "Bedsheet Sets",
+  "serial": "BL-08"
+ },
+ {
+  "id": "m_towel_stack",
+  "category": "Bath Linen",
+  "tag": "Cotton \u00b7 450 GSM",
+  "name": "Bath Towel Set",
+  "body": "Bath towel 75x150 cm, small bath towel 60x120 cm, 2 hand towels. 19 colours",
+  "img": "images/m_towel_stack.jpg",
+  "badges": [],
+  "subgroup": "Bath Towels",
+  "serial": "BA-01"
+ },
+ {
+  "id": "m_towel_stripe",
+  "category": "Bath Linen",
+  "tag": "Cotton \u00b7 450 GSM",
+  "name": "Striped Bath Towel",
+  "body": "Super soft striped bath towel, 75x150 cm",
+  "img": "images/m_towel_stripe.jpg",
+  "badges": [],
+  "subgroup": "Bath Towels",
+  "serial": "BA-02"
+ },
+ {
+  "id": "m_towel_bamboo",
+  "category": "Bath Linen",
+  "tag": "Bamboo \u00b7 450 GSM",
+  "name": "Bamboo Blend Bath Towel",
+  "body": "Soft, fast-drying bath towel, 70x140 cm. 4 colours",
+  "img": "images/m_towel_bamboo.jpg",
+  "badges": [],
+  "subgroup": "Bath Towels",
+  "serial": "BA-03"
+ },
+ {
+  "id": "m_towel_lux",
+  "category": "Bath Linen",
+  "tag": "Cotton \u00b7 625 GSM",
+  "name": "Luxury Bath Towel Range",
+  "body": "Bath towel 75x150 cm, hand & wash towels. Antimicrobial. 12 colours",
+  "img": "images/m_towel_lux.jpg",
+  "badges": [],
+  "subgroup": "Bath Towels",
+  "serial": "BA-04"
+ },
+ {
+  "id": "m_towel_sheet",
+  "category": "Bath Linen",
+  "tag": "Cotton \u00b7 509 GSM",
+  "name": "Bath Sheet & Towel Range",
+  "body": "Bath sheet 90x180 cm, bath, hand and wash towels. Antimicrobial. 19 colours",
+  "img": "images/m_towel_sheet.jpg",
+  "badges": [],
+  "subgroup": "Bath Towels",
+  "serial": "BA-05"
+ },
+ {
+  "id": "m_towel_scent",
+  "category": "Bath Linen",
+  "tag": "Cotton \u00b7 500 GSM",
+  "name": "Scented Towel Set (Pack of 4)",
+  "body": "2 bath towels 75x150 cm + 2 hand towels 40x60 cm. 6 fragrances",
+  "img": "images/m_towel_scent.jpg",
+  "badges": [],
+  "subgroup": "Bath Towels",
+  "serial": "BA-06"
+ },
+ {
+  "id": "m_towel_gym",
+  "category": "Bath Linen",
+  "tag": "Bamboo \u00b7 450 GSM",
+  "name": "Gym Towel",
+  "body": "Quick-dry gym towel, 40x90 cm. 4 colours",
+  "img": "images/m_towel_gym.jpg",
+  "badges": [],
+  "subgroup": "Bath Towels",
+  "serial": "BA-07"
+ },
+ {
+  "id": "h_chair",
+  "category": "Bath Linen",
+  "tag": "Cotton \u00b7 380 GSM",
+  "name": "Chair Towel",
+  "body": "Secure-fit, breathable chair towel, 60x140 cm",
+  "img": "images/h_chair.jpg",
+  "badges": [],
+  "subgroup": "Chair Towel",
+  "serial": "BA-08"
+ },
+ {
+  "id": "h_dohar",
+  "category": "Top of Bed",
+  "tag": "Reversible",
+  "name": "Printed Double Dohar",
+  "body": "Feather soft and hypoallergenic. 1 double dohar 2.20 x 2.40 m. 6 designs",
+  "img": "images/h_dohar.jpg",
+  "badges": [],
+  "subgroup": "Dohars",
+  "serial": "TB-01"
+ },
+ {
+  "id": "h_dohar_bag",
+  "category": "Top of Bed",
+  "tag": "Dohar in a Bag",
+  "name": "Printed Double Dohar Set",
+  "body": "1 double dohar 2.20 x 2.40 m, 1 double bedsheet 2.20 x 2.50 m, 2 pillow covers 45x68 cm",
+  "img": "images/h_dohar_bag.jpg",
+  "badges": [],
+  "subgroup": "Dohars",
+  "serial": "TB-02"
+ },
+ {
+  "id": "i_dohar",
+  "category": "Top of Bed",
+  "tag": "Dohar",
+  "name": "Double Bed Dohar",
+  "body": "1 double bed dohar 2.00 x 2.10 m",
+  "img": "images/i_dohar.jpg",
+  "badges": [],
+  "subgroup": "Dohars",
+  "serial": "TB-03"
+ },
+ {
+  "id": "h_comforter",
+  "category": "Top of Bed",
+  "tag": "Reversible",
+  "name": "Printed Double Comforter",
+  "body": "Feather soft and hypoallergenic. 1 double comforter 2.20 x 2.40 m. 6 designs",
+  "img": "images/h_comforter.jpg",
+  "badges": [],
+  "subgroup": "Comforters & Quilts",
+  "serial": "TB-04"
+ },
+ {
+  "id": "m_dreams",
+  "category": "Top of Bed",
+  "tag": "Cotton Shell",
+  "name": "Reversible Double Comforter",
+  "body": "Premium cotton shell. 1 double comforter 2.24 x 2.64 m",
+  "img": "images/m_dreams.jpg",
+  "badges": [],
+  "subgroup": "Comforters & Quilts",
+  "serial": "TB-05"
+ },
+ {
+  "id": "i_quilt",
+  "category": "Top of Bed",
+  "tag": "Quilt",
+  "name": "Double Bed Quilt",
+  "body": "1 double bed quilt 2.28 x 2.64 m",
+  "img": "images/i_quilt.jpg",
+  "badges": [],
+  "subgroup": "Comforters & Quilts",
+  "serial": "TB-06"
+ },
+ {
+  "id": "i_comforter",
+  "category": "Top of Bed",
+  "tag": "Comforter",
+  "name": "Double Bed Comforter",
+  "body": "1 double bed comforter 2.00 x 2.20 m",
+  "img": "images/i_comforter.jpg",
+  "badges": [],
+  "subgroup": "Comforters & Quilts",
+  "serial": "TB-07"
+ },
+ {
+  "id": "m_bl_single",
+  "category": "Top of Bed",
+  "tag": "Mink \u00b7 Single Ply",
+  "name": "Printed Mink Blanket",
+  "body": "Double 2.20x2.40 m (2.7 kg), single 1.60x2.20 m (1.8 kg). 7 designs",
+  "img": "images/m_bl_single.jpg",
+  "badges": [],
+  "subgroup": "Blankets",
+  "serial": "TB-08"
+ },
+ {
+  "id": "m_bl_double",
+  "category": "Top of Bed",
+  "tag": "Mink \u00b7 Double Ply",
+  "name": "Printed Mink Blanket",
+  "body": "Double 2.20x2.40 m, single 1.60x2.20 m. Super soft, easy care. 7 designs",
+  "img": "images/m_bl_double.jpg",
+  "badges": [],
+  "subgroup": "Blankets",
+  "serial": "TB-09"
+ },
+ {
+  "id": "m_bl_triple",
+  "category": "Top of Bed",
+  "tag": "Mink \u00b7 Triple Ply",
+  "name": "Layered Mink Blanket",
+  "body": "Double bed 2.20x2.40 m. Warm, cozy and hypoallergenic. 3 designs",
+  "img": "images/m_bl_triple.jpg",
+  "badges": [],
+  "subgroup": "Blankets",
+  "serial": "TB-10"
+ },
+ {
+  "id": "i_blanket",
+  "category": "Top of Bed",
+  "tag": "Blanket",
+  "name": "Double Bed Blanket",
+  "body": "1 double bed blanket 2.10 x 2.30 m",
+  "img": "images/i_blanket.jpg",
+  "badges": [],
+  "subgroup": "Blankets",
+  "serial": "TB-11"
+ },
+ {
+  "id": "h_bedcover",
+  "category": "Top of Bed",
+  "tag": "Ultrasonic \u00b7 Reversible",
+  "name": "Printed Bedcover Set",
+  "body": "1 double bedcover 2.00x2.10 m + 2 pillow covers 43x68 cm. 6 designs",
+  "img": "images/h_bedcover.jpg",
+  "badges": [],
+  "subgroup": "Bed Covers",
+  "serial": "TB-12"
+ },
+ {
+  "id": "m_bedcover",
+  "category": "Top of Bed",
+  "tag": "Embroidered \u00b7 Cotton Shell",
+  "name": "King Size Bedcover Set",
+  "body": "1 king size bedcover 2.28x2.74 m + 2 pillow covers 46x69 cm. 6 designs",
+  "img": "images/m_bedcover.jpg",
+  "badges": [],
+  "subgroup": "Bed Covers",
+  "serial": "TB-13"
+ },
+ {
+  "id": "i_bedcover",
+  "category": "Top of Bed",
+  "tag": "Bed Cover",
+  "name": "Double Bed Cover Set",
+  "body": "1 double bed cover 2.28x2.54 m + 2 pillow covers 43x68 cm",
+  "img": "images/i_bedcover.jpg",
+  "badges": [],
+  "subgroup": "Bed Covers",
+  "serial": "TB-14"
+ },
+ {
+  "id": "h_pillow",
+  "category": "Top of Bed",
+  "tag": "Fibre Filled",
+  "name": "Sleeping Pillows (Pack of 2)",
+  "body": "Conjugate fibre filling, non-allergic, optimum neck support. 43x69 cm or 40x60 cm",
+  "img": "images/h_pillow.jpg",
+  "badges": [],
+  "subgroup": "Pillows & Cushions",
+  "serial": "TB-15"
+ },
+ {
+  "id": "i_cushion",
+  "category": "Top of Bed",
+  "tag": "Cushions",
+  "name": "Cushion Covers (Set of 2)",
+  "body": "2 cushion covers, 40 x 40 cm",
+  "img": "images/i_cushion.jpg",
+  "badges": [],
+  "subgroup": "Pillows & Cushions",
+  "serial": "TB-16"
+ },
+ {
+  "id": "h_biab",
+  "category": "Gifting Combos",
+  "tag": "Bed in a Bag",
+  "name": "Comforter Set",
+  "body": "1 double comforter 2.20x2.40 m, 1 double bedsheet 2.20x2.50 m, 2 pillow covers",
+  "img": "images/h_biab.jpg",
+  "badges": [],
+  "subgroup": "Combo Sets",
+  "serial": "GC-01"
+ },
+ {
+  "id": "i_combo_quilt",
+  "category": "Gifting Combos",
+  "tag": "Quilt Combo",
+  "name": "Quilt & Bedsheet Set",
+  "body": "1 double quilt 2.24x2.64 m, 1 double bedsheet 2.24x2.74 m, 2 pillow covers",
+  "img": "images/i_combo_quilt.jpg",
+  "badges": [],
+  "subgroup": "Combo Sets",
+  "serial": "GC-02"
+ },
+ {
+  "id": "i_combo_cush",
+  "category": "Gifting Combos",
+  "tag": "Quilt + Cushions",
+  "name": "Quilt Set with Cushions",
+  "body": "Double quilt, double bedsheet, 2 pillow covers and 2 filled cushions 50x50 cm",
+  "img": "images/i_combo_cush.jpg",
+  "badges": [],
+  "subgroup": "Combo Sets",
+  "serial": "GC-03"
+ },
+ {
+  "id": "i_combo_bath",
+  "category": "Gifting Combos",
+  "tag": "Bed & Bath Combo",
+  "name": "Bedsheet & Towel Set",
+  "body": "1 double bedsheet 2.24x2.54 m, 2 pillow covers, 2 bath towels 70x137 cm",
+  "img": "images/i_combo_bath.jpg",
+  "badges": [],
+  "subgroup": "Combo Sets",
+  "serial": "GC-04"
+ }
+]

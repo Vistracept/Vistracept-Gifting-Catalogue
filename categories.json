@@ -1,0 +1,183 @@
+[
+ {
+  "name": "Glassware",
+  "prefix": "GL",
+  "count": 21,
+  "cover": "images/g_smartrect.jpg",
+  "groups": [
+   {
+    "name": "Food Storage Gift Sets",
+    "count": 4,
+    "cover": "images/g_smartrect.jpg"
+   },
+   {
+    "name": "Snack, Dry-Fruit & Canister Sets",
+    "count": 4,
+    "cover": "images/g_snackstore.jpg"
+   },
+   {
+    "name": "Bowls with Lids",
+    "count": 4,
+    "cover": "images/g_nadir.jpg"
+   },
+   {
+    "name": "Dessert & Serving Sets",
+    "count": 3,
+    "cover": "images/g_regalia.jpg"
+   },
+   {
+    "name": "Breakfast & Coffee Sets",
+    "count": 3,
+    "cover": "images/g_octavia.jpg"
+   },
+   {
+    "name": "Barware Sets",
+    "count": 3,
+    "cover": "images/g_bravon.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Opalware",
+  "prefix": "OP",
+  "count": 16,
+  "cover": "images/o_miniquick.jpg",
+  "groups": [
+   {
+    "name": "Imperial Collection",
+    "count": 4,
+    "cover": "images/o_miniquick.jpg"
+   },
+   {
+    "name": "Royale Collection",
+    "count": 4,
+    "cover": "images/o_r_serving.jpg"
+   },
+   {
+    "name": "Dazzle Collection",
+    "count": 4,
+    "cover": "images/o_d_family.jpg"
+   },
+   {
+    "name": "Solitaire & Aura Collections",
+    "count": 4,
+    "cover": "images/o_s_tea.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Thermoware",
+  "prefix": "TH",
+  "count": 21,
+  "cover": "images/t_imperio.jpg",
+  "groups": [
+   {
+    "name": "Insulated Hot Pots",
+    "count": 4,
+    "cover": "images/t_imperio.jpg"
+   },
+   {
+    "name": "Lunch Boxes",
+    "count": 4,
+    "cover": "images/t_trilunch.jpg"
+   },
+   {
+    "name": "Hydration",
+    "count": 4,
+    "cover": "images/t_ornate.jpg"
+   },
+   {
+    "name": "Gift Sets: Picnic & Travel",
+    "count": 3,
+    "cover": "images/t_grand.jpg"
+   },
+   {
+    "name": "Gift Sets: Tea, Coffee & Serving",
+    "count": 3,
+    "cover": "images/t_drink.jpg"
+   },
+   {
+    "name": "Gift Sets: Work & On-the-Go",
+    "count": 3,
+    "cover": "images/t_gemini.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Bed Linen",
+  "prefix": "BL",
+  "count": 8,
+  "cover": "images/m_bs120.jpg",
+  "groups": [
+   {
+    "name": "Bedsheet Sets",
+    "count": 8,
+    "cover": "images/m_bs120.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Bath Linen",
+  "prefix": "BA",
+  "count": 8,
+  "cover": "images/m_towel_stack.jpg",
+  "groups": [
+   {
+    "name": "Bath Towels",
+    "count": 7,
+    "cover": "images/m_towel_stack.jpg"
+   },
+   {
+    "name": "Chair Towel",
+    "count": 1,
+    "cover": "images/h_chair.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Top of Bed",
+  "prefix": "TB",
+  "count": 16,
+  "cover": "images/h_dohar.jpg",
+  "groups": [
+   {
+    "name": "Dohars",
+    "count": 3,
+    "cover": "images/h_dohar.jpg"
+   },
+   {
+    "name": "Comforters & Quilts",
+    "count": 4,
+    "cover": "images/h_comforter.jpg"
+   },
+   {
+    "name": "Blankets",
+    "count": 4,
+    "cover": "images/m_bl_single.jpg"
+   },
+   {
+    "name": "Bed Covers",
+    "count": 3,
+    "cover": "images/h_bedcover.jpg"
+   },
+   {
+    "name": "Pillows & Cushions",
+    "count": 2,
+    "cover": "images/h_pillow.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Gifting Combos",
+  "prefix": "GC",
+  "count": 4,
+  "cover": "images/h_biab.jpg",
+  "groups": [
+   {
+    "name": "Combo Sets",
+    "count": 4,
+    "cover": "images/h_biab.jpg"
+   }
+  ]
+ }
+]
